@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "654077931240",
+    "firebase_url": "https://myfreeze-16aff.firebaseio.com",
+    "project_id": "myfreeze-16aff",
+    "storage_bucket": "myfreeze-16aff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654077931240:android:53f469273e63b68e",
+        "android_client_info": {
+          "package_name": "com.example.haf.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654077931240-b7um6hq3rjmd5d7qohfvsqjb0h42q09m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haf.myapplication",
+            "certificate_hash": "31e0255d6874dce694fc33c260f111e1bceca6bc"
+          }
+        },
+        {
+          "client_id": "654077931240-tvvf2q9pof3k7dp12lrqt6c5ffi80jnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClnGSMX7meynjDgIQnYwHmKYbLtscNVfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654077931240-tvvf2q9pof3k7dp12lrqt6c5ffi80jnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654077931240:android:9d78a44691589640",
+        "android_client_info": {
+          "package_name": "com.example.haf.myfreeze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654077931240-r9gmhbefgcarhkknqhrjdttr4ndeo07q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haf.myfreeze",
+            "certificate_hash": "ccf69154c79f712d7d12f589067735f0a9e097f3"
+          }
+        },
+        {
+          "client_id": "654077931240-tvvf2q9pof3k7dp12lrqt6c5ffi80jnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClnGSMX7meynjDgIQnYwHmKYbLtscNVfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654077931240-tvvf2q9pof3k7dp12lrqt6c5ffi80jnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
